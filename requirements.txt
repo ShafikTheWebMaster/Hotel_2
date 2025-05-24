@@ -1,0 +1,5 @@
+Django==5.1.7
+gunicorn
+psycopg2-binary
+django-phonenumber-field
+dj-database-url
